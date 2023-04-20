@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 ***
-## iterative ßpace 
-Location: ßpace @ die Anstoß, Karlsruhe (DE). Live Coding Performance as **Ben and the Minibrots** with Patrick Borgeat
+### [iterative ßpace](https://dieanstoss.de/neu/iterative-sspace/) 
+Location: [ßpace @ die Anstoß](https://dieanstoss.de/), Karlsruhe (DE). Live Coding Performance as **Ben and the Minibrots** with [Patrick Borgeat](https://borgeat.de/)
